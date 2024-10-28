@@ -2,21 +2,17 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=632CF7&width=435&lines=Welcome+to+my+GitHub+account;My+name+is+Mohamed+Aboellil;I+am+Full-Stack+.NET+Developer+)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=632CF7&width=435&lines=Welcome+to+my+GitHub+account;My+name+is+Mohamed+Aboellil;I+am+Full-Stack+.NET+Developer+)](https://git.io/typing-svg)</h1>
 
 ###
 
-<p align="left">Software Engineer <br>Full-stack .NET Developer<br>IEEE Head WEB<br>Communications and Electronics Engineering Student</p>
-
-###
-
-<p align="left">👋 Hi, I'm Mohamed! A passionate .NET Developer with a strong background in web development. I specialize in C#, ASP.NET MVC, EF Core, and SQL Server. 💻<br><br>🎓 Currently studying at Suez Canal University and holding certifications from ITI and Udacity. I have hands-on experience in building applications and managing projects, and I'm always eager to learn new technologies! 🌟<br><br>🤖 With a foundation in electronics and robotics, I thrive on creativity and problem-solving. Let's connect! 🚀</p>
+<p align="center">👋 Hi, I'm Mohamed! A passionate .NET Developer with a strong background in web development. I specialize in C#, ASP.NET MVC, EF Core, and SQL Server. 💻</p>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlyamY5Y29seXFsZ2ZldHVobDB3eDR6cHpvcHU4d3Z0cDd2bHFzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C6v4QD5d3YOO4YhID/giphy.webp"  />
 </div>
 
@@ -75,7 +71,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aboellil0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboellil0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aboellil0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
