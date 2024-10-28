@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=632CF7&width=435&lines=Welcome+to+my+GitHub+account;My+name+is+Mohamed+Aboellil;I+am+Full-Stack+.NET+Developer+)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=632CF7&width=435&lines=Welcome+to+my+GitHub+account;My+name+is+Mohamed+Aboellil;I+am+Full-Stack+.NET+Developer+)](https://git.io/typing-svg)
 
 ###
 
