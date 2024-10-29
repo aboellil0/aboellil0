@@ -1,20 +1,22 @@
-<h1 align="left">Hi 👋, I'm Mohamed Aboellil</h1>
+<br clear="both">
 
-###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=632CF7&width=435&lines=Welcome+to+my+GitHub+account;My+name+is+Mohamed+Aboellil;I+am+Full-Stack+.NET+Developer+)](https://git.io/typing-svg)
-
-###
-
-<p align="center">👋 Hi, I'm Mohamed! A passionate .NET Developer with a strong background in web development. I specialize in C#, ASP.NET MVC, EF Core, and SQL Server. 💻</p>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlyamY5Y29seXFsZ2ZldHVobDB3eDR6cHpvcHU4d3Z0cDd2bHFzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C6v4QD5d3YOO4YhID/giphy.webp"  />
-</div>
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=632CF7&width=435&lines=Welcome+to+my+GitHub+account;My+name+is+Mohamed+Aboellil;I+am+Full-Stack+.NET+Developer+)](https://git.io/typing-svg)</p>
+
+###
+
+<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlyamY5Y29seXFsZ2ZldHVobDB3eDR6cHpvcHU4d3Z0cDd2bHFzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C6v4QD5d3YOO4YhID/giphy.webp"  />
+
+###
+
+<p align="left">👋 Hi, I'm Mohamed! A passionate .NET Developer with a strong background in web development. I specialize in C#, ASP.NET MVC, EF Core, and SQL Server. 💻</p>
 
 ###
 
