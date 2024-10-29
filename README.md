@@ -1,22 +1,22 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="250" src="https://i.imgur.com/SGGjilt.png"  />
 </div>
 
 ###
 
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=632CF7&width=435&center=true&vCenter=true&lines=Welcome+to+my+GitHub+account;My+name+is+Mohamed+Aboellil;I+am+Full-Stack+.NET+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8B19E6&center=true&width=435&lines=Helllo+%F0%9F%91%8B+I+am+Aboellil;Full-Stack+.NET+Developer+;welcome+to+my+Githup+account+)](https://git.io/typing-svg)
 
 ###
 
-<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlyamY5Y29seXFsZ2ZldHVobDB3eDR6cHpvcHU4d3Z0cDd2bHFzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C6v4QD5d3YOO4YhID/giphy.webp"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlyamY5Y29seXFsZ2ZldHVobDB3eDR6cHpvcHU4d3Z0cDd2bHFzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2C6v4QD5d3YOO4YhID/giphy.webp"  />
 
 ###
 
-<p align="left">👋 Hi, I'm Mohamed! A passionate .NET Developer with a strong background in web development. I specialize in C#, ASP.NET MVC, EF Core, and SQL Server. 💻</p>
+<p align="left">👋 Hi, I'm Mohamed! A passionate .NET Developer with a strong background in web development. I specialize in C#, ASP.NET MVC, EF Core, and SQL Server. 💻<br><br>🎓 Currently studying at Suez Canal University and holding certifications from ITI and Udacity. I have hands-on experience in building applications and managing projects, and I'm always eager to learn new technologies! 🌟</p>
 
 ###
 
