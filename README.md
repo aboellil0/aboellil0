@@ -7,8 +7,10 @@
 ###
 
 <br clear="both">
-
+<div style="text-align: center; padding:0; margin:0;">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8B19E6&center=true&width=435&lines=Helllo+%F0%9F%91%8B+I+am+Aboellil;Full-Stack+.NET+Developer+;welcome+to+my+Githup+account+)](https://git.io/typing-svg)
+</div>
 
 ###
 
