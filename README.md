@@ -3,7 +3,7 @@
 <div align="center">
   <img height="250" src="https://i.imgur.com/SGGjilt.png"  />
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aboellil0&theme=dark)](https://git.io/streak-stats)
+
 ###
 
 <br clear="both">
@@ -76,7 +76,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboellil0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aboellil0&theme=dark)](https://git.io/streak-stats" height="150" alt="streak graph"  />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aboellil0&theme=dark" alt="GitHub Streak" /></a></div>
 
 ###
