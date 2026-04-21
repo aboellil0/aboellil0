@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Mohamed%20Aboellil&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend-Heavy&descAlignY=58&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Mohamed%20Aboellil&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlignY=58&descColor=cccccc" />
 
 </div>
 
@@ -10,12 +10,12 @@
 
 ```ts
 const mohamed = {
-  title:      "Full Stack Software Engineer (Backend-Heavy)",
+  title:      "Backend Software Engineer",
   location:   "Egypt 🇪🇬",
   education:  "B.Sc. Electronics & Communications — Suez Canal University (Graduating Jul 2026)",
   experience: "2 years of freelance backend development",
   focus:      ["Clean Architecture", "Microservices", "RESTful APIs", "Real-Time Systems"],
-  available:  true, // open to full-time opportunities
+  available:  true, // open to full-time backend opportunities
 };
 ```
 
@@ -38,26 +38,36 @@ const mohamed = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**APIs & Real-Time**
+
+![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-FF6600?style=for-the-badge&logoColor=white)
+
+**Auth & Security**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Auth & APIs**
+**Architecture & Patterns**
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Frontend (Supporting)**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6E40C9?style=for-the-badge&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-239120?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6C37?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -80,22 +90,23 @@ const mohamed = {
 
 ### 🚀 Featured Projects
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| **CubeCharm** | ASP.NET Core · RabbitMQ · Docker | Microservices-based real estate listing platform with API gateway & distributed data management |
-| **Helaq (حِلق)** | ASP.NET Core · CQRS · Clean Architecture | SaaS platform for managing online Quran circles and independent tutors |
-| **Yaqeen Academy** | Node.js · MongoDB · Docker · Swagger | Production-ready LMS with 3-tier role access, JWT/OAuth auth, and full API docs |
-| **Al Rouba Group** | Node.js · Express · MongoDB | Multi-division corporate marketing platform for an Omani conglomerate |
-| **Service Booking System** | ASP.NET Core · SignalR · SQL Server | Real-time service booking platform with technician roles and live status notifications |
+| Project | Stack | Highlights |
+|--------|-------|------------|
+| **CubeCharm** | ASP.NET Core · RabbitMQ · Docker · SignalR | Microservices real estate platform — service decomposition, API gateway, distributed data |
+| **Helaq (حِلق)** | ASP.NET Core · CQRS · Clean Architecture | SaaS for online Quran circles — scheduling, student tracking, tutor management |
+| **Yaqeen Academy** | Node.js · MongoDB · Docker · Swagger | Production LMS — 3-tier roles, JWT/OAuth, 90+ documented API endpoints |
+| **Al Rouba Group** | Node.js · Express · MongoDB | Multi-division corporate platform for Omani conglomerate — 5+ business units |
+| **Service Booking System** | ASP.NET Core · SignalR · SQL Server | Real-time booking platform with live technician status notifications |
+| **Event Booking System** | ASP.NET Core API · Blazor · Clean Architecture | Full-stack event management with RESTful API and interactive Blazor UI |
 
 ---
 
 ### 🏆 Highlights
 
-- 🎖️ **IEEE Golden Member of the Month** — recognized for outstanding technical contributions
-- 💼 **2 years freelancing** — delivered production systems for clients in Egypt & Oman
+- 💼 **2 years freelancing** — delivered production backend systems for clients in Egypt & Oman
+- 🎖️ **IEEE Golden Member of the Month** — led web dev committee of ~25 members & bootcamps for ~100 attendees
 - 🧠 **ICPC Participant** — advanced from Level 0 → Level 1 in competitive programming
-- 🎓 **Graduating Jul 2026** — actively seeking full-time backend / full-stack roles
+- 🎓 **Graduating Jul 2026** — actively seeking full-time **Backend Software Engineer** roles
 
 ---
 
@@ -103,7 +114,7 @@ const mohamed = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-aboellil-628360296)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedaboellil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aboellil.me/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.aboellil0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aboellil0)
